@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Digital-Watch/static/css/main.3f3b216b.chunk.css",
+    "main.js": "/Digital-Watch/static/js/main.8065eca0.chunk.js",
+    "main.js.map": "/Digital-Watch/static/js/main.8065eca0.chunk.js.map",
+    "runtime-main.js": "/Digital-Watch/static/js/runtime-main.5f9f341e.js",
+    "runtime-main.js.map": "/Digital-Watch/static/js/runtime-main.5f9f341e.js.map",
+    "static/js/2.7ee32b2f.chunk.js": "/Digital-Watch/static/js/2.7ee32b2f.chunk.js",
+    "static/js/2.7ee32b2f.chunk.js.map": "/Digital-Watch/static/js/2.7ee32b2f.chunk.js.map",
+    "index.html": "/Digital-Watch/index.html",
+    "static/css/main.3f3b216b.chunk.css.map": "/Digital-Watch/static/css/main.3f3b216b.chunk.css.map",
+    "static/js/2.7ee32b2f.chunk.js.LICENSE.txt": "/Digital-Watch/static/js/2.7ee32b2f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Digital-Watch/static/media/bg-img.2ac6c1b3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f9f341e.js",
+    "static/js/2.7ee32b2f.chunk.js",
+    "static/css/main.3f3b216b.chunk.css",
+    "static/js/main.8065eca0.chunk.js"
+  ]
+}
